@@ -1,0 +1,10 @@
+{
+  "name": "DMNEngine",
+  "label": "DMN Engine",
+  "description": "Embedded DMN Engine",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
